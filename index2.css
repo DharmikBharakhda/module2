@@ -1,0 +1,225 @@
+html
+{
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+body
+	{
+		padding-top:5px; 
+
+		padding-bottom: 10px;
+		
+		background-size: cover;
+		background-position: center;
+		background-image: url("https://wallpapercave.com/wp/3o76ksu.jpg");
+
+	}
+	*{
+		box-sizing: border-box;
+	}
+	h1
+	{
+		text-align: center;
+		color: white;
+	}
+	hr
+	{
+		border: 1px solid lightgrey;
+		width: 30%;
+	}
+	.navbar
+	{
+		border-radius: 2px;
+	}
+	
+
+	.container-fluid hr
+	{
+		border: 1px solid lightgrey;
+		width: 60%;
+		margin-bottom: 30px;
+	}
+
+	.container-fluid >div>div>div hr
+	{
+		border: 1px solid lightgrey;
+		width: 20%;
+		margin-bottom: 30px;
+	}
+
+	.row {
+  margin-right: -10px;
+  margin-left: -10px;
+}
+.container {
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  width:100%;
+
+}
+
+@media (min-width: 768px) {
+  .main{
+    width: 750px;
+    
+  }
+}
+@media (min-width: 992px) {
+  .main {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .main {
+    width: 1170px;
+    float: left;
+  }
+}
+
+
+	.jumbotron
+	{
+		color: #2c3e50;
+	}
+.navbar-inverse
+{
+	background: #D3D3D3;
+	
+}
+.navbar-inverse .navbar-brand
+{
+	color: #696969;
+    
+}
+.navbar-inverse .navbar-brand>a
+{
+	background-color: transparent;
+    
+}
+
+
+
+.navber-inverse .navbar-nav>li>a
+{
+	color: white;
+}
+
+.navbar  a
+{
+	font-size: 30px;
+}
+.nav-item .nav-link
+{
+	font-size: 19px;
+	text-align:center; 
+}
+
+
+  p
+	{
+		padding-left: 40px;
+		padding-right: 5px;
+		padding-top: 5px ;
+		font-size: 16px;
+		margin: 10px;
+		padding-bottom: 10px;
+	}
+
+	.col-lg-12 p
+	{
+		padding-right: 40px;
+	}
+		
+.l1
+	{
+
+	
+		border: 2px solid white;
+		margin: .5rem;
+		background-color: gray;
+		color: white;
+		padding: 2px;
+
+ 		    margin-bottom: 20px;
+            border-radius: 4px;
+           
+
+	}
+
+
+.chicken
+{
+	padding-top: 10px;
+	color: black;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+	font-size: 25px;
+	box-sizing: border-box;
+}
+
+
+.l2
+	{
+		border: 2px solid white;
+		margin: .5rem;
+		background-color: gray;
+		color: white;
+		padding: 2px;
+	    margin-bottom: 20px;
+        border-radius: 4px;
+           
+   	}
+
+
+.Beef
+{
+	padding-top: 10px;
+	color: black;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+	font-size: 25px;
+	font-family: ;
+	box-sizing: border-box;
+}
+
+.l3
+	{
+		border: 2px solid white;
+		margin: .5rem;
+		background-color: gray;
+		color: white;
+		padding: 2px;
+ 	    margin-bottom: 20px;
+        border-radius: 4px;
+	}
+
+
+.Sushi
+{
+	padding-top: 10px;
+	color: black;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+	font-size: 25px;
+	font-family: ;
+	box-sizing: border-box;
+
+
+}
+
+
+
+
+
+
+
+		
+	
+
+
+
+	
